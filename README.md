@@ -109,3 +109,24 @@ The Sunshine lineage encodes:
 - Intelligence (adaptation)
 
 This neural model captures the **structure**, but real mastery lies in **presence and sensitivity**.
+Epoch 0 | Loss 0.0471
+Epoch 20 | Loss 0.0393
+Epoch 40 | Loss 0.0320
+Epoch 60 | Loss 0.0205
+Epoch 80 | Loss 0.0086
+Epoch 100 | Loss 0.0021
+Epoch 120 | Loss 0.0006
+Epoch 140 | Loss 0.0004
+Epoch 160 | Loss 0.0004
+Epoch 180 | Loss 0.0004
+
+Inference:
+relaxation 0.578
+flexibility 0.633
+circulation 0.568
+pain_relief 0.481
+nervous_system 0.774
+energy_balance 0.57
+
+
+
